@@ -1,0 +1,10 @@
+public class Test4 {
+
+	public static void main(String[] args) {
+
+		int a1=10,a2=11;
+		System.out.println(a1+"ÊÇÅ¼Êý?"+(a1%2==0));
+
+	}
+
+}
