@@ -4,7 +4,7 @@
 
 ### MyNote
 
-[Day01_Java基础语法](C:\Users\Symon\Desktop\JavaSE\MyNote\Day01_Java基础语法.xmind)
+[Day01_Java基础语法](..\MyHomework\day02_homework\day03_课后练习.md)
 
 Day02_数据类型转换、运算符
 
